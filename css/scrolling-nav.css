@@ -29,7 +29,7 @@ html {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url("images/background.jpg") no-repeat center center fixed;
+    background: url(images/back.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -86,8 +86,8 @@ html {
 .icons { height: auto; width: 18%;}
 .me { width: 175%; height: auto; float: right;}
 
-.about-title { font-family: 'Raleway'; font-size: 22px; font-weight: 900; text-decoration: underline; color: black; }
-.about-company { font-family: 'Raleway'; font-size: 19px; font-weight: 900; color: black; }
+.about-title { font-family: 'Raleway'; font-size: 22px; text-decoration: underline; color: black; }
+.about-company { font-family: 'Raleway'; font-size: 19px; color: black; }
 .about-date { font-family: 'Raleway'; font-size: 16px; font-style: italic; color: black; }
 .about-description { font-family: 'Raleway'; font-size: 16px; padding-bottom: 2%; color: black; }
 .intro-description { font-family: 'Helvetica'; font-size: 18px; padding-bottom: 2%; color: black; }
@@ -130,14 +130,12 @@ h1 {
 h2 {
     font-size: 30px;
     font-family: 'Raleway', sans-serif;
-    font-weight: 900;
     color: white;
 }
 
 h3 {
     font-size: 50px;
     font-family: 'Raleway', sans-serif;
-    font-weight: 900;
     color: black;
     text-align: center;
 }
