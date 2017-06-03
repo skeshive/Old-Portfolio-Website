@@ -38,37 +38,56 @@ html {
 
 .about-section {
     height: 100%;
-    padding-top: 35px;
+    padding-top: 45px;
     text-align: center;
     background: #216869;
 }
 
 .experience-section {
     height: 100%;
-    padding-top: 35px;
+    padding-top: 5%;
     text-align: center;
     background: #49A078;
 }
 
 .project-section {
     height: 100%;
-    padding-top: 35px;
+    padding-top: 45px;
     text-align: center;
     background: #9CC5A1;
 }
 
 .activity-section {
     height: 100%;
-    padding-top: 35px;
+    padding-top: 45px;
     text-align: center;
     background: #DCE1DE;
 }
 
 .contact-section {
-    height: 10%;
-    text-align: center;
-    background: #1b1b1b;
+  height: 10%;
+  text-align: center;
+  background: #1b1b1b;
 }
+
+.label-default {
+  font-size: 15px;
+  font-family: 'Inconsolata';
+  border-radius: 10px;
+  background-color: #1b1b1b;
+  opacity: .65;
+}
+
+.column-left { float: left; width: 30%; padding-top: 2%;}
+.column-right{ float: right; width: 30%; padding-top: 2%;}
+.column-center{ display: inline-block; width: 30%; padding-top: 2%;}
+.icons { height: auto; width: 18%;}
+
+
+.about-title { font-family: 'Raleway'; font-size: 22px; font-weight: 900; text-decoration: underline;}
+.about-company { font-family: 'Raleway'; font-size: 19px; font-weight: 900;}
+.about-date { font-family: 'Raleway'; font-size: 16px; font-style: italic; }
+.about-description { font-family: 'Raleway'; font-size: 16px; padding-bottom: 2%;}
 
 .navbar-default {
     background-color: #1b1b1b;
@@ -108,12 +127,14 @@ h1 {
 h2 {
     font-size: 30px;
     font-family: 'Raleway';
+    font-weight: 900;
     color: white;
 }
 
 h3 {
-    font-size: 60px;
-    font-family: 'Oswald';
+    font-size: 50px;
+    font-family: 'Raleway';
+    font-weight: 900;
     color: #1b1b1b;
     text-align: center;
 }
