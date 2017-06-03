@@ -54,7 +54,7 @@ html {
 
 .project-section {
     height: 100%;
-    padding-top: 45px;
+    padding-top: 5%;
     text-align: center;
     background: #9CC5A1;
     opacity: .80;
@@ -86,7 +86,6 @@ html {
 .column-right-3 { float: right; width: 30%; padding-top: 2%;}
 .column-center-3 { display: inline-block; width: 30%; padding-top: 2%;}
 .icons { height: auto; width: 18%;}
-
 
 .about-title { font-family: 'Raleway'; font-size: 22px; font-weight: 900; text-decoration: underline; color: black; }
 .about-company { font-family: 'Raleway'; font-size: 19px; font-weight: 900; color: black; }
