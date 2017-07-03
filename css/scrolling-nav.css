@@ -4,7 +4,6 @@
       -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
       -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
       transition: background .5s ease-in-out,padding .5s ease-in-out;
-      background: #black;
   }
 
   .top-nav-collapse {
@@ -13,7 +12,7 @@
   }
 }
 .navbar-default {
-    background-color: black;
+    background-color: #363636;
     font-family: 'Raleway';
     font-size: 18px;
 }
@@ -30,13 +29,13 @@
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: black;
+    color: #363636;
     background-color: white;
 }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-    color: black;
+    color: #363636;
     background-color: white;
 }
