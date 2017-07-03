@@ -80,6 +80,8 @@ h2 { font-size: 30px; font-family: 'Raleway'; color: white; }
 h3 { font-size: 55px; font-family: 'Raleway'; color: black; text-align: center; }
 h4 { font-size: 75px; font-family: 'Lobster'; color: black; text-align: left; }
 h5 { font-size: 22px; font-family: 'Helvetica'; color: black; text-align: left; line-height: 30px; }
+h6 { font-size: 24px; font-family: 'Raleway'; color: white; }
+
 
 button {
   display: inline-block;
