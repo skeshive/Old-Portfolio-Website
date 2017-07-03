@@ -75,12 +75,12 @@ html {
 .description { font-family: 'Raleway'; font-size: 16px; padding-bottom: 2%; color: black; }
 .intro-description { font-family: 'Helvetica'; font-size: 18px; padding-bottom: 2%; color: black; }
 
-h1 { font-size: 130px; font-family: 'Lobster'; color: white; }
-h2 { font-size: 30px; font-family: 'Raleway'; color: white; }
+h1 { font-size: 130px; font-family: 'Lobster'; color: #EEEBE6; }
+h2 { font-size: 30px; font-family: 'Raleway'; color: #EEEBE6; }
 h3 { font-size: 55px; font-family: 'Raleway'; color: black; text-align: center; }
 h4 { font-size: 75px; font-family: 'Lobster'; color: black; text-align: left; }
 h5 { font-size: 22px; font-family: 'Helvetica'; color: black; text-align: left; line-height: 30px; }
-h6 { font-size: 24px; font-family: 'Raleway'; color: white; }
+h6 { font-size: 24px; font-family: 'Raleway'; color: #EEEBE6; }
 
 
 button {
