@@ -23,28 +23,28 @@ html {
 }
 
 .about-section {
-    background: #6876B3;
+    background: #A2B0E4;
     padding-top: 6%;
     padding-bottom: 6%;
 }
 
 .experience-section {
     text-align: center;
-    background: #8996C9;
+    background: #BCCBF7;
     padding-top: 5%;
     padding-bottom: 5%;
 }
 
 .project-section {
     text-align: center;
-    background: #AC9BC9;
+    background: #E3CDF4;
     padding-top: 4%;
     padding-bottom: 4%;
 }
 
 .activity-section {
     text-align: center;
-    background: #EDABB6;
+    background: #E8D5E9;
     padding-top: 5%;
     padding-bottom: 7%;
 }
