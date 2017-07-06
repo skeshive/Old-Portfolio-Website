@@ -20,17 +20,20 @@ body, html {
 .about-section {
   background: #96858F;
   padding-top: 8%;
+  padding-bottom: 8%;
 }
 
 .experience-section {
   background: #787CA1;
   padding-top: 6%;
+  padding-bottom: 6%;
   text-align: center;
 }
 
 .project-section {
   background: #84A587;
   padding-top: 6%;
+  padding-bottom: 6%;
   text-align: center;
 }
 
